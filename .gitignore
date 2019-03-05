@@ -3,3 +3,4 @@ target/
 test-report.html
 */password.txt
 */*.jar
+test-results.html
