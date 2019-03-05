@@ -1,0 +1,5 @@
+*.log
+target/
+test-report.html
+*/password.txt
+*/*.jar
